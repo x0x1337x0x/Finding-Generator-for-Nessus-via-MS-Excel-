@@ -1,2 +1,4 @@
 # Finding-Generator-for-Nessus-via-MS-Excel-
-This will help my Local Organization to generate an finding tracker. As i found out they still relying on manual interaction on sorting the finding which consume the time and effort which u can finish within a few minutes
+This project helps local organizations generate and manage finding trackers more efficiently. During my assessment, I found that many organizations still rely on manual processes to sort and categorize findings, which consume significant time and effort. By automating this workflow, tasks that previously took hours can now be completed within minutes, improving efficiency, consistency, and overall productivity.
+
+
